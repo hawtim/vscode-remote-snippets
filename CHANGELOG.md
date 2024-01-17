@@ -1,3 +1,7 @@
+## [0.0.2](https://github.com/0x-jerry/vscode-remote-snippets/compare/v0.4.2...v0.0.2) (2024-01-17)
+
+
+
 ## [0.4.2](https://github.com/0x-jerry/vscode-remote-snippets/compare/v0.4.1...v0.4.2) (2023-08-17)
 
 
